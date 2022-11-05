@@ -1,8 +1,8 @@
 <h2 style="color:cyan">Project Installation</h2>
    
 ```bash
-     git clone https://github.com/3sis/3SISPro_Payroll.git
-     cd 3SISPro_Payroll
+     git clone https://github.com/3sis/3SISPro_SalesForeceAutomation.git
+     cd 3SISPro_SalesForeceAutomation
      composer install
      cp .env.example .env
 
